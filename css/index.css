@@ -1,0 +1,96 @@
+#heading {
+  width: 80%;
+  margin: 10px auto;
+}
+
+* {
+  font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
+  font-weight: 100;
+}
+
+#dollar
+{
+width: 50%;
+
+}
+
+#quarter
+{
+  height: 40%;
+  width: 40%;
+}
+
+#dime
+{
+  height: 29%;
+  width: 29%; 
+}
+
+#nickel
+{
+  height: 35%;
+  width: 35%; 
+}
+
+#penny
+{
+  height: 31%;
+  width: 31%; 
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.padControl {
+  padding-right: 0;
+}
+
+#form {
+  background-color: rgb(245, 245, 245);
+  border: 1px solid rgb(227, 227, 227);
+  width: 80%;
+  margin: 10px auto;
+  border-radius: 5px;
+  padding: 10px 0 60px 0;
+  text-align: left;
+}
+
+#button {
+  margin: 15px 0 0 0;
+}
+
+label {
+  width: 95%;
+}
+
+#dollarContainer {
+  background-color: rgb(245, 245, 245);
+  border: 1px solid rgb(227, 227, 227);
+  width: 80%;
+  margin: 10px auto;
+  padding: 5px 0;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#changeContainer {
+  width: 80%;
+  margin: 10px auto;
+  border-radius: 5px;
+  background-color: rgb(245, 245, 245);
+  border: 1px solid rgb(227, 227, 227);
+  text-align: center;
+}
+
+.changes {
+  width: 20%;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+p
+{
+  font-size: 2em;
+  font-weight: 400;
+}
